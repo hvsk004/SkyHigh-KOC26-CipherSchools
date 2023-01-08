@@ -130,7 +130,6 @@ section.top button{
 }
 .home1{
     width: 300px;
-    /* text-align: center; */
 }
 
 .home1 h5{
@@ -181,11 +180,6 @@ section.top button{
 
 
 }
-/* .loadmore{
-    display: flex;
-    justify-content: flex-end;
-    margin-right: 4%;
-} */
 .loadmore i{
     padding-left: 24px;
     font-size: 1.2em;
@@ -204,7 +198,6 @@ section.top button{
 .homedetails{
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
     width: 300px;
     text-align: left;
     margin-left: 6%;
@@ -214,7 +207,6 @@ section.top button{
 
 .footer{
     width: 100vw;
-    /* height: 300px; */
     border-top: 1px solid #eee;
     padding-top: 4%;
     margin: 0% auto;
@@ -234,43 +226,15 @@ section.top button{
     color: rgb(0, 0, 0);
 
 }
-/* .f1 a{
-    color: #fff;
-} */
 .line1, .line2, .line3{
     display: flex;
     flex-direction: column;
 }
-.sub{
-    width: 400px;
-    height: 40px;
-    padding: 0px;
-    border: 1px solid rgb(56, 56, 56);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-left: 6px;
 
-}
-.sub input{
-    border: none;
-    background: none;
-
-}
 ::placeholder{
     font-size: 1.4em;
     padding-left: 12px;
     color: rgb(61, 61, 61);
-}
-.subtn{
-    background: green;
-    height: 40px;
-    width: 90px;
-    padding: 10px;
-    border: none;
-    color: #fff;
-    font-size: 1em;
-
 }
 .f2{
     display: flex;
